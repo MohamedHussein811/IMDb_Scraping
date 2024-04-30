@@ -113,19 +113,19 @@
 
 ## Top Rated Genres
 
-![TopRatedGenres](images/image10.png)
+![TopRatedGenres](images/image11.png)
 
 
 ## Top Rated Genres (Tags)
 
-![TopRatedGenresTags](images/image11.png)
+![TopRatedGenresTags](images/image12.png)
 
 
 # Scraped Dataset
 
 ## Table
 
-![Table](images/image12.png)
+![Table](images/image10.png)
 
 
 # Conclusion
