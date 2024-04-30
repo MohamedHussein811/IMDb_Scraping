@@ -2,7 +2,7 @@
 
 # Introduction
 
-1.  # Problem Definition:
+# 1. Problem Definition:
 
     -   The primary challenge is to develop a robust web scraping
         algorithm capable of extracting relevant movie information from
@@ -15,7 +15,7 @@
         missing values during the analysis process is essential for
         producing reliable insights.
 
-2.  # Objectives:
+# 2. Objectives:
 
     -   Scrape a comprehensive dataset of movie information from IMDb,
         including attributes such as title, genre, release year, rating,
@@ -34,7 +34,7 @@
     -   Generate meaningful visualizations and reports to communicate
         insights effectively.
 
-3.  # Planned Approach: 
+# 3. Planned Approach: 
 
     -   **Data Scraping:** Develop a web scraping algorithm using Python
         and libraries like BeautifulSoup or Scrapy to extract movie data
@@ -128,7 +128,7 @@
 ![Table](https://openai.com/favicon.ico)
 
 
-# Conclusion {#sec:conclusion}
+# Conclusion
 
 In this project, we embarked on the task of scraping IMDb data to gather
 comprehensive information about movies. Through the utilization of web
